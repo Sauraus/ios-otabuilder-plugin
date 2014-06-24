@@ -2,3 +2,4 @@ work/
 pkg/
 web/
 .DS_Store
+.idea
